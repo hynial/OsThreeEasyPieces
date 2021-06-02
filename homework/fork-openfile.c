@@ -44,7 +44,7 @@ int main(int argc, char *argv[]){
 
         while(1){
             if(start_m == 1){
-                printf("goodbye");
+                printf("goodbye"); // 
                 break;
             }
         }
